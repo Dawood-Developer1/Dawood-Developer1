@@ -62,6 +62,16 @@ Building database-backed web applications with PHP, MySQL, and modern frontend t
 
 ![divider](./assets/divider.svg)
 
+### `🐍 contribution snake`
+
+<div align="center">
+
+![Contribution snake animation](https://raw.githubusercontent.com/Dawood-Developer1/Dawood-Developer1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+![divider](./assets/divider.svg)
+
 ### `📊 contribution graph`
 
 <div align="center">
